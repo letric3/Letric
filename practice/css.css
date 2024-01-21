@@ -1,0 +1,25 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color: #bfbfbf;
+    
+  }
+h1{
+    text-decoration: none;
+}
+  div:nth-child(1){
+    width: 300px;
+    height: 300px;
+  }
+    
+  div { 
+    width: 30px;
+    height: 30px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 5px solid white;
+    margin: 10px;
+  }
